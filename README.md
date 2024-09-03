@@ -1,6 +1,10 @@
 # Nest Server
 A backend server based on NestJS and MySQL
 
+![Nest](https://img.shields.io/badge/Nest-10.0.0-blue)
+![typeorm](https://img.shields.io/badge/Typeorm-0.3.20-blue)
+![swagger](https://img.shields.io/badge/Swagger-7.2.0-blue)
+
 ## Installation
 ```bash
 $ npm install
