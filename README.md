@@ -1,4 +1,4 @@
-## Nest Server
+# Nest Server
 A backend server based on NestJS and MySQL
 
 ## Installation
@@ -23,4 +23,3 @@ $ npm run start:prod
 
 ## API Document Path
 `/api/_doc`
-# nest-server
