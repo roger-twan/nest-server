@@ -1,5 +1,5 @@
 # Nest Server
-A backend server based on NestJS and MySQL
+A backend server based on NestJS and MySQL. Related repository: [Next Admin](https://github.com/roger-twan/nest-admin)
 
 ![Nest](https://img.shields.io/badge/Nest-10.0.0-blue)
 ![typeorm](https://img.shields.io/badge/Typeorm-0.3.20-blue)
